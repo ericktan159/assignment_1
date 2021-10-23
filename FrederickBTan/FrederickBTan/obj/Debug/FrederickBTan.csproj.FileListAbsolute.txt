@@ -1,0 +1,10 @@
+C:\AdminFileFolder\Source\repos\MyRepos\FrederickBTan\FrederickBTan\bin\Debug\FrederickBTan.exe.config
+C:\AdminFileFolder\Source\repos\MyRepos\FrederickBTan\FrederickBTan\bin\Debug\FrederickBTan.exe
+C:\AdminFileFolder\Source\repos\MyRepos\FrederickBTan\FrederickBTan\bin\Debug\FrederickBTan.pdb
+C:\AdminFileFolder\Source\repos\MyRepos\FrederickBTan\FrederickBTan\obj\Debug\FrederickBTan.csproj.AssemblyReference.cache
+C:\AdminFileFolder\Source\repos\MyRepos\FrederickBTan\FrederickBTan\obj\Debug\FrederickBTan.Form1.resources
+C:\AdminFileFolder\Source\repos\MyRepos\FrederickBTan\FrederickBTan\obj\Debug\FrederickBTan.Properties.Resources.resources
+C:\AdminFileFolder\Source\repos\MyRepos\FrederickBTan\FrederickBTan\obj\Debug\FrederickBTan.csproj.GenerateResource.cache
+C:\AdminFileFolder\Source\repos\MyRepos\FrederickBTan\FrederickBTan\obj\Debug\FrederickBTan.csproj.CoreCompileInputs.cache
+C:\AdminFileFolder\Source\repos\MyRepos\FrederickBTan\FrederickBTan\obj\Debug\FrederickBTan.exe
+C:\AdminFileFolder\Source\repos\MyRepos\FrederickBTan\FrederickBTan\obj\Debug\FrederickBTan.pdb
